@@ -1,0 +1,13 @@
+C:\Users\Javier Olivares\Documents\APIs\CONTPAQi\Ejemplos\API Timbrado - RespSharp\bin\Debug\API Timbrado - RespSharp.exe.config
+C:\Users\Javier Olivares\Documents\APIs\CONTPAQi\Ejemplos\API Timbrado - RespSharp\bin\Debug\API Timbrado - RespSharp.exe
+C:\Users\Javier Olivares\Documents\APIs\CONTPAQi\Ejemplos\API Timbrado - RespSharp\bin\Debug\API Timbrado - RespSharp.pdb
+C:\Users\Javier Olivares\Documents\APIs\CONTPAQi\Ejemplos\API Timbrado - RespSharp\bin\Debug\RestSharp.dll
+C:\Users\Javier Olivares\Documents\APIs\CONTPAQi\Ejemplos\API Timbrado - RespSharp\bin\Debug\RestSharp.xml
+C:\Users\Javier Olivares\Documents\APIs\CONTPAQi\Ejemplos\API Timbrado - RespSharp\obj\Debug\API Timbrado - RespSharp.csprojAssemblyReference.cache
+C:\Users\Javier Olivares\Documents\APIs\CONTPAQi\Ejemplos\API Timbrado - RespSharp\obj\Debug\API_Timbrado___RespSharp.Properties.Resources.resources
+C:\Users\Javier Olivares\Documents\APIs\CONTPAQi\Ejemplos\API Timbrado - RespSharp\obj\Debug\API Timbrado - RespSharp.csproj.GenerateResource.cache
+C:\Users\Javier Olivares\Documents\APIs\CONTPAQi\Ejemplos\API Timbrado - RespSharp\obj\Debug\API Timbrado - RespSharp.csproj.CoreCompileInputs.cache
+C:\Users\Javier Olivares\Documents\APIs\CONTPAQi\Ejemplos\API Timbrado - RespSharp\obj\Debug\API Timbrado - RespSharp.csproj.CopyComplete
+C:\Users\Javier Olivares\Documents\APIs\CONTPAQi\Ejemplos\API Timbrado - RespSharp\obj\Debug\API Timbrado - RespSharp.exe
+C:\Users\Javier Olivares\Documents\APIs\CONTPAQi\Ejemplos\API Timbrado - RespSharp\obj\Debug\API Timbrado - RespSharp.pdb
+C:\Users\Javier Olivares\Documents\APIs\CONTPAQi\Ejemplos\API Timbrado - RespSharp\obj\Debug\API_Timbrado___RespSharp.formPeticiones.resources

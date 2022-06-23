@@ -1,0 +1,42 @@
+<?xml version=\"1.0\" encoding=\"utf-8\"?>
+<cfdi:Comprobante xsi:schemaLocation=\"http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv33.xsd http://www.sat.gob.mx/ConsumoDeCombustibles11 http://www.sat.gob.mx/sitio_internet/cfd/consumodecombustibles/consumodeCombustibles11.xsd\" xmlns:cfdi=\"http://www.sat.gob.mx/cfd/3\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns:consumodecombustibles11=\"http://www.sat.gob.mx/ConsumoDeCombustibles11\" Version=\"3.3\" Serie=\"CFDI-33\" Fecha=\"2021-06-15T10:04:49\" Sello=\"Tnx6OL78eu2f5XcRNh/465zuuUvNXM1eqBpSaiu+idwQrBdjrjP1ISiFNISXPMQCjtejHVW+oqTRGWdhitfnInmlgrCGNe02T3nW7jBXY1MRBJ9lyxlJnLVtv+Bhfmznthuiz1V2VfFIuZOCibFREVwGlUOjGB/X6xT0HB8jczK+vel2/2KD0NMamBNjWfbss84i2rd3PRARPxUCsdJaNJWTmi274I36HGVVJiH898yX1ZkTK5rrxTCT0jzDgJo3x/uMPmx81+85F21GroKa0hMSgIxVfyLnRFi8dOTQ3KCcp4kS0WypEI3yPQKLg1nA/75yTwSYxamXytg66VBm3Q==\" FormaPago=\"01\" NoCertificado=\"30001000000400002447\" Certificado=\"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\" CondicionesDePago=\"Pago en una sola exhibición\" SubTotal=\"1387.98\" Total=\"1610.06\" Moneda=\"MXN\" TipoCambio=\"1\" TipoDeComprobante=\"I\" MetodoPago=\"PUE\" Folio=\"1\" LugarExpedicion=\"45906\">
+  <cfdi:Emisor Rfc=\"LAN7008173R5\" Nombre=\"CINDEMEX SA DE CV\" RegimenFiscal=\"601\" />
+  <cfdi:Receptor Rfc=\"CACX7605101P8\" Nombre=\"Test 00d24e3983b3413ab5cbe68626fd0370\" UsoCFDI=\"G01\" />
+  <cfdi:Conceptos>
+    <cfdi:Concepto ClaveProdServ=\"01010101\" NoIdentificacion=\"00001\" Cantidad=\"25.50\" ClaveUnidad=\"H87\" Unidad=\"Pieza\" Descripcion=\"Producto de Pruebas CFDI 33\" ValorUnitario=\"19.96\" Importe=\"508.98\">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base=\"508.98\" Impuesto=\"002\" TipoFactor=\"Tasa\" TasaOCuota=\"0.160000\" Importe=\"81.4368\" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ=\"95141904\" NoIdentificacion=\"00002\" Cantidad=\"50.00\" ClaveUnidad=\"H87\" Unidad=\"Pieza\" Descripcion=\"Producto de Pruebas JCS\" ValorUnitario=\"17.58\" Importe=\"879.00\">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base=\"879.00\" Impuesto=\"002\" TipoFactor=\"Tasa\" TasaOCuota=\"0.160000\" Importe=\"140.64\" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosTrasladados=\"222.08\">
+    <cfdi:Traslados>
+      <cfdi:Traslado Impuesto=\"002\" TipoFactor=\"Tasa\" TasaOCuota=\"0.160000\" Importe=\"222.08\" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <consumodecombustibles11:ConsumoDeCombustibles version=\"1.1\" tipoOperacion=\"monedero electrónico\" numeroDeCuenta=\"123456789012345543\" subTotal=\"1387.98\" total=\"1610.06\">
+      <consumodecombustibles11:Conceptos>
+        <consumodecombustibles11:ConceptoConsumoDeCombustibles identificador=\"1234567890\" fecha=\"2018-04-24T09:01:56\" rfc=\"AAQM610917QJA\" claveEstacion=\"CB-0124\" tipoCombustible=\"1\" cantidad=\"25.500\" nombreCombustible=\"Gasolina menor a 92 octanos\" folioOperacion=\"1221435678\" valorUnitario=\"19.96\" importe=\"508.98\">
+          <consumodecombustibles11:Determinados>
+            <consumodecombustibles11:Determinado impuesto=\"IVA\" tasaOCuota=\"0.160000\" importe=\"81.44\" />
+          </consumodecombustibles11:Determinados>
+        </consumodecombustibles11:ConceptoConsumoDeCombustibles>
+        <consumodecombustibles11:ConceptoConsumoDeCombustibles identificador=\"1234567891\" fecha=\"2018-04-24T09:01:56\" rfc=\"AAQM610917QJA\" claveEstacion=\"CB-0125\" tipoCombustible=\"3\" cantidad=\"50.000\" nombreCombustible=\"Diesel\" folioOperacion=\"1221435679\" valorUnitario=\"17.58\" importe=\"879.00\">
+          <consumodecombustibles11:Determinados>
+            <consumodecombustibles11:Determinado impuesto=\"IVA\" tasaOCuota=\"0.160000\" importe=\"140.64\" />
+          </consumodecombustibles11:Determinados>
+        </consumodecombustibles11:ConceptoConsumoDeCombustibles>
+      </consumodecombustibles11:Conceptos>
+    </consumodecombustibles11:ConsumoDeCombustibles>
+  </cfdi:Complemento>
+</cfdi:Comprobante>
