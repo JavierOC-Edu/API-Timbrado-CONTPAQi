@@ -26,11 +26,11 @@ namespace API_Timbrado___RespSharp
             var request = new RestRequest(Method.POST);
             //agregamos los encabezados que la API nos solicita
             //License-Code: corresponde a la licencia de la identidad
-            request.AddHeader("License-Code", "7A94A7A5");
+            request.AddHeader("License-Code", ""); //el sgundo parametro es el valor de su licence id
             //Content-Type: corresponde al tipo de lenguaje en el que se envia el contenido, JSON es el requerido
             request.AddHeader("Content-Type", "application/json");
             //Subscription-Key: corresponde a la clave privada que se otorga a la cuenta que se suscribe al servicio de timbrado
-            request.AddHeader("Subscription-Key", "2de2bdd4dffb45fead117d1398f77ece");
+            request.AddHeader("Subscription-Key", "");//el segundo parametro es el valor de su Subscription-Key 
 
             //el cuerpo de la petición tambien requiere de ciertos parametros ya que así lo solicita la API
             //se agredan @@ para permitir el uso de "" ya que el body contiene texto

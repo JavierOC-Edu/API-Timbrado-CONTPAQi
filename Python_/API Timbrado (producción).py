@@ -20,8 +20,8 @@ params = {
 }
 #encabezados para la petición
 headers_peticion = {
-  'licenseId': 'f619f411a410440596ae722758b51975',
-  'Ocp-Apim-Subscription-Key': 'f619f411a410440596ae722758b51975'
+  'licenseId': '',#asignar su LicenseId
+  'Ocp-Apim-Subscription-Key': ''#Asignar su Subscription-Key
 }
 #petición POST
 response_post = requests.request("POST", url, headers=headers_peticion, data=xml_string)

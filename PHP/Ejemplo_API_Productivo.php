@@ -7,9 +7,9 @@ $url = $request->getUrl();
 
 $headers = array(
     // Request headers
-    'licenseId' => 'f619f411a410440596ae722758b51975',
+    'licenseId' => '',//asingar su licence ID
     'Content-Type' => 'application/json',
-    'Ocp-Apim-Subscription-Key' => 'f619f411a410440596ae722758b51975',
+    'Ocp-Apim-Subscription-Key' => '',//asignar su Subscription-Key
 );
 
 $request->setHeader($headers);
